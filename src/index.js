@@ -1,1 +1,1 @@
-console.log('Hello, Parcel!');
+import "./styles.css";
